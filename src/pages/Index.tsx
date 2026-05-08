@@ -53,17 +53,17 @@ const Index = () => {
 
             <div className="flex flex-col gap-2 max-w-5xl">
               <div className="flex items-center gap-4">
-                <span className="text-accent font-mono text-sm">Специализация</span>
-                <span className="text-foreground font-mono text-sm">Разработка и дизайн</span>
+                <span className="text-accent font-mono text-sm">Сериал</span>
+                <span className="text-foreground font-mono text-sm">The Vampire Diaries (2009–2017)</span>
               </div>
               <div className="flex items-center gap-4">
-                <span className="text-accent font-mono text-sm">Локация</span>
-                <span className="text-foreground font-mono text-sm">Москва, Россия</span>
+                <span className="text-accent font-mono text-sm">Место действия</span>
+                <span className="text-foreground font-mono text-sm">Мистик Фолс, Вирджиния</span>
               </div>
               <div className="flex items-start gap-4">
-                <span className="text-accent font-mono text-sm">О себе</span>
+                <span className="text-accent font-mono text-sm">О сериале</span>
                 <span className="text-foreground font-mono text-sm">
-                  Создаю цифровые продукты с вниманием к деталям — от идеи до готового решения. Всегда открыт к новым интересным проектам.
+                  История Елены Гилберт, которая влюбляется в вампира Стефана Сальваторе. Любовь, тайны и вечная борьба добра со злом в маленьком городке с большими секретами.
                 </span>
               </div>
             </div>

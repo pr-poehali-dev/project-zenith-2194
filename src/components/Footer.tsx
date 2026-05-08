@@ -16,17 +16,17 @@ export default function Footer() {
               className="text-foreground text-4xl md:text-5xl mb-8 leading-[3.5rem] md:leading-[4rem] font-semibold text-center md:text-left mt-0"
               style={{ fontFamily: "var(--font-montserrat)" }}
             >
-              Давайте создадим что-то крутое.
+              Вечность — это только начало.
             </h2>
 
             <div className="space-y-4 text-foreground">
               <div className="flex items-start gap-3">
                 <span className="text-accent mt-1">*</span>
-                <p className="text-sm">Открыт к интересным проектам и коллаборациям.</p>
+                <p className="text-sm">Братья Сальваторе — Стефан и Деймон — разделены столетиями, но объединены одной любовью.</p>
               </div>
               <div className="flex items-start gap-3">
                 <span className="text-accent mt-1">*</span>
-                <p className="text-sm">Превращаю идеи в работающие цифровые продукты с душой.</p>
+                <p className="text-sm">Мистик Фолс хранит тайны, которые изменят всё.</p>
               </div>
             </div>
           </div>
@@ -58,8 +58,8 @@ export default function Footer() {
 
         <div id="contact" className="w-full px-6 py-16 flex flex-col md:flex-row items-center justify-center md:justify-between gap-6 md:gap-0 border-t border-border mt-16">
           <div className="flex flex-col md:flex-row gap-2 text-center md:text-left">
-            <h2 className="text-foreground font-mono text-xl font-bold">Готов к новым проектам!</h2>
-            <p className="text-foreground font-mono font-normal text-base">Напишите — обсудим вашу идею</p>
+            <h2 className="text-foreground font-mono text-xl font-bold">Фанат «Дневников вампира»?</h2>
+            <p className="text-foreground font-mono font-normal text-base">Напиши — обсудим любимые моменты</p>
           </div>
 
           <a href="mailto:hello@example.com">
